@@ -1,0 +1,4 @@
+rootProject.name = 'es-demo'
+
+include 'kafka-client', 'eureka-server', 'es-stream-helper'
+
